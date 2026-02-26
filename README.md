@@ -3,6 +3,8 @@
 
 > Hi 42, I know you are seeing this, before taking my repo down, call me and request to remove anything you'll think is not being cool to be here. thnks S2
 
+![test_screenshot](src/test_screenshot.png)
+
 # How to use the testers
 ## 1 - Clone this repository to your home (do not change the name)
 ```bash
