@@ -108,13 +108,10 @@ run_test ex04 ft_ultimate_div_mod
 run_test ex05 ft_putstr
 run_test ex06 ft_strlen
 run_test ex07 ft_rev_int_tab
-# run_test ex08 {file_name_ex08}
-# run_test ex09 {file_name_ex09}
-# run_test ex10 {file_name_ex10}
-# run_test ex11 {file_name_ex11}
+run_test ex08 ft_sort_int_tab
 
 
-for ex in ex00 ex01 ex02 ex03 ex04 ex05 ex06 ex07
+for ex in ex00 ex01 ex02 ex03 ex04 ex05 ex06 ex07 ex08
 do
 
 if [ -d "$BASE_DIR/$ex" ]
@@ -142,11 +139,12 @@ cat "$BASE_DIR/normout.log"
 echo -n "${CYAN}ex00: " && cat "$BASE_DIR/ex00.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
 echo -n "${CYAN}ex01: " && cat "$BASE_DIR/ex01.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
 echo -n "${CYAN}ex02: " && cat "$BASE_DIR/ex02.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
-echo -n "${CYAN}ex03: " && cat "$BASE_DIR/ex03.log" 2>/dev/null
-echo -n "${CYAN}ex04: " && cat "$BASE_DIR/ex04.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
+echo -n "${CYAN}ex03: " && cat "$BASE_DIR/ex03.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
+echo -n "${CYAN}ex04: " && cat "$BASE_DIR/ex04.log" 2>/dev/null 
 echo -n "${CYAN}ex05: " && cat "$BASE_DIR/ex05.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
 echo -n "${CYAN}ex06: " && cat "$BASE_DIR/ex06.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
-echo -n "${CYAN}ex07: " && cat "$BASE_DIR/ex07.log" 2>/dev/null
+echo -n "${CYAN}ex07: " && cat "$BASE_DIR/ex07.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
+echo -n "${CYAN}ex08: " && cat "$BASE_DIR/ex08.log" 2>/dev/null
 
 echo ""
 echo "${PINK}If all ran ${GREEN}✅ green ✅${PINK}, then Good luck with Moulinette${DEFAULT}"
