@@ -1,0 +1,4 @@
+'Hello, Global 42!' len is 17!
+'Hello, world!' len is 13!
+'Hello, Solar System!' len is 20!
+'Hello, Milky way!' len is 17!

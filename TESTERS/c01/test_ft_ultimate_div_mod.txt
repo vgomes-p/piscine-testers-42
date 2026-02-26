@@ -1,0 +1,2 @@
+n1 = 378 and n2 = 9
+div = 42 and mod = 0

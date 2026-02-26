@@ -1,0 +1,2 @@
+Original: !yaw ykliM ,olleH !dlrow ,olleH !24 ,olleH
+Rev: Hello, 42! Hello, world! Hello, Milky way!

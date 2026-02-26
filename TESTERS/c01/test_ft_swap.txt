@@ -1,0 +1,4 @@
+before swap:
+n1: 2 || n2: 4
+after swap:
+n1: 4 || n2: 2

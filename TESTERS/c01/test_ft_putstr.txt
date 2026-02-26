@@ -1,0 +1,4 @@
+Hello, Global 42!
+Hello, world!
+Hello, Solar System!
+Hello, Milky way!
