@@ -136,8 +136,8 @@ cat "$BASE_DIR/normout.log"
 echo -n "${CYAN}ex00: " && cat "$BASE_DIR/ex00.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
 echo -n "${CYAN}ex01: " && cat "$BASE_DIR/ex01.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
 echo -n "${CYAN}ex02: " && cat "$BASE_DIR/ex02.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
-echo -n "${CYAN}ex03: " && cat "$BASE_DIR/ex03.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
-echo -n "${CYAN}ex04: " && cat "$BASE_DIR/ex04.log" 2>/dev/null
+echo -n "${CYAN}ex03: " && cat "$BASE_DIR/ex03.log" 2>/dev/null 
+echo -n "${CYAN}ex04: " && cat "$BASE_DIR/ex04.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
 echo -n "${CYAN}ex05: " && cat "$BASE_DIR/ex05.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
 echo -n "${CYAN}ex06: " && cat "$BASE_DIR/ex06.log" 2>/dev/null | tr '\n' ' ' && echo -n "| "
 echo -n "${CYAN}ex07: " && cat "$BASE_DIR/ex07.log" 2>/dev/null
