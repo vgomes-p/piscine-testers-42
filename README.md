@@ -28,6 +28,7 @@ alias test_shell00="~/piscine-testers-42/TESTERS/EXECS/exec_shell00.sh"
 alias test_shell01="~/piscine-testers-42/TESTERS/EXECS/exec_shell01.sh"
 alias test_c00="~/piscine-testers-42/TESTERS/EXECS/exec_c00.sh"
 alias test_c01="~/piscine-testers-42/TESTERS/EXECS/exec_c01.sh"
+alias test_c02="~/piscine-testers-42/TESTERS/EXECS/exec_c02.sh"
 ```
 
 #### 2.3 - Exit the file
