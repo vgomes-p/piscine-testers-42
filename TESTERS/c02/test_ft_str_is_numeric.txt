@@ -1,0 +1,3 @@
+str1 '1234567890' ft_str_is_numeric return: 1
+str2 '1a2b3c4d5e6f7g8h9i0j' ft_str_is_numeric return: 0
+str2 '' ft_str_is_numeric return: 1

@@ -1,0 +1,2 @@
+Original string: Hello, 42 Global! Hello, World, Hello, Solar System! Hello, Milky way! 
+Upcased string: HELLO, 42 GLOBAL! HELLO, WORLD, HELLO, SOLAR SYSTEM! HELLO, MILKY WAY! 

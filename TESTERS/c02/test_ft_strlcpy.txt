@@ -1,0 +1,4 @@
+Original string: Hello, 42 Global! Hello, World, Hello, Solar System! Hello, Milky Way!
+String after strlcpy: Hello, 42 Global!
+Size needed to copy the string 'Hello, 42 Global! Hello, World, Hello, Solar System! Hello, Milky Way!': 70
+Dest is properly null-terminated.

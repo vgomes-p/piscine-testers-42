@@ -1,0 +1,3 @@
+Hello\0aHow are you?
+Here we have: tab (\09), new line (\0a), carriage return (\0d), delete (\7f)
+cancel (\18), escape/ESC (\1b), shift out (\0e), shift in (\0f)...

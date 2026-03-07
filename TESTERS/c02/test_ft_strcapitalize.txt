@@ -1,0 +1,5 @@
+Original string: hello, 42 global! hello, world, hello, solar system! hello, milky way! 
+Capitalized string: Hello, 42 Global! Hello, World, Hello, Solar System! Hello, Milky Way! 
+
+Original string: hi, how are you? 42words forty-two; fifty+and+one 
+Capitalized string: Hi, How Are You? 42words Forty-Two; Fifty+And+One 
