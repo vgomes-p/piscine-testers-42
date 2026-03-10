@@ -1,0 +1,4 @@
+'Hello, 42 Global! Hello, world!' is equal to 'Hello, 42 Global! Hello, world!'!
+'Hello, 42 Global! Hello, world!' is less than 'Hello, Solar system!'!
+'Hello, Solar system!' is greater than 'Hello, 42 Global! Hello, world!'!
+n is 0 and ft_strncmp returned 0!

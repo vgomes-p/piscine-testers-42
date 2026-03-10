@@ -1,0 +1,3 @@
+First string: 'Hello, 42 Global! Hello, World, '
+Second string: 'Hello, Solar System! Hello, Milky way!'
+Strings cat: 'Hello, 42 Global! Hello, World, Hello, Solar System! Hello, Milky way!'

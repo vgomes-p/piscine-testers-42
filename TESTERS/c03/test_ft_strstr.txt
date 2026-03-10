@@ -1,0 +1,3 @@
+'the first string!' was found in 'This is the first string!'. ft_strstr returned: 'the first string!'
+'second str!' was not found in 'This is the second string!'. ft_strstr returned: '(null)'
+'This string is big... really big!' was not found in 'This string is big...'. ft_strstr returned: '(null)'

@@ -1,0 +1,3 @@
+test1: abcdef | return: 6
+test2: abcd | return: 7
+test3: abcd | return: 6
