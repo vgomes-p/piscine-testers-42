@@ -1,5 +1,5 @@
 # piscine-testers-42
-### This are testers for the 42 Piscine process
+### These are simple testers for the 42 Piscine process
 
 > Hi 42, I know you are seeing this, before taking my repo down, call me and request to remove anything you'll think is not being cool to be here. thnks S2
 
@@ -30,6 +30,7 @@ alias test_c00="~/piscine-testers-42/TESTERS/EXECS/exec_c00.sh"
 alias test_c01="~/piscine-testers-42/TESTERS/EXECS/exec_c01.sh"
 alias test_c02="~/piscine-testers-42/TESTERS/EXECS/exec_c02.sh"
 alias test_c03="~/piscine-testers-42/TESTERS/EXECS/exec_c03.sh"
+alias test_c04="~/piscine-testers-42/TESTERS/EXECS/exec_c04.sh
 ```
 
 #### 2.3 - Exit the file
@@ -59,3 +60,6 @@ cd 42_piscine/c0
 ```bash
 test_c00
 ```
+
+# Note
+### These testers do not test all the scenarios for the exercises. But they are the tests I made on my own code before approving them...

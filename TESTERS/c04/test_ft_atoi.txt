@@ -1,0 +1,3 @@
+' ---+--+1234ab567' ft_atoied returned -1234
+'    42 is a great school!' ft_atoied returned 42
+'We don't talk about 1toa, n0, n0, n0!' ft_atoied returned 0
